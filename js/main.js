@@ -12,7 +12,6 @@ for (let i = 0; i < numStars; i++) {
 }
 
 // Gets random x, y values based on the size of the container
-
 function getRandomPosition() {
   var y = window.innerWidth;
   var x = window.innerHeight;
